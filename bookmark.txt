@@ -1,0 +1,3 @@
+java regex, java regular, java regular expression : http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html 
+directed graph, direct graph, graph, standford graph, adjacent matrix  : http://stanford.edu/class/ee103/lectures/matrix-mult/matrix-mult_slides.pdf
+
