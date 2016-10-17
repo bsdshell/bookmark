@@ -1,3 +1,29 @@
-java regex, java regular, java regular expression : http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html 
-directed graph, direct graph, graph, standford graph, adjacent matrix  : http://stanford.edu/class/ee103/lectures/matrix-mult/matrix-mult_slides.pdf
+dynamic programming in haskell 
+http://jelv.is/blog/Lazy-Dynamic-Programming
 
+java regex, java regular, java regular expression, test 
+http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html 
+
+directed graph, direct graph, graph, standford graph, adjacent matrix, test
+http://stanford.edu/class/ee103/lectures/matrix-mult/matrix-mult_slides.pdf
+
+find tag, xattr, finder, add tag, attr 
+http://apple.stackexchange.com/questions/87313/how-to-remove-xattr-com-apple-quarantine-from-all-webarchive-files-with-that-ex
+
+povray ray tracing raytrace
+/Users/cat/GoogleDrive/Books/povray_tutorial.pdf
+
+drawing, draw, asymptote, asymp, asym, test
+/Users/cat/GoogleDrive/Books/asymptote_tutorial.pdf
+
+borrowmean ring, hopf fibration, fiber
+/Users/cat/GoogleDrive/Books/BorromeanRings.pdf
+
+matrix multi, matrix multiplication, matrix multiply, QR, SVG
+/Users/cat/GoogleDrive/Books/matrix_mult.pdf
+
+haskell package, list package, package dependency, package broken 
+https://downloads.haskell.org/~ghc/7.4.2/docs/html/users_guide/packages.html#using-packages
+
+
+lect21-publish-subscribe.pdf
